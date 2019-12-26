@@ -1,0 +1,88 @@
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;
+float: right;
+text-align: top;
+}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;
+float:left;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+.row2 {
+    height: 600px;
+    
+    width: 700px;
+    height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+
+}
+
+.pic_base1{
+    height: 30%;
+    background-color: #34495e;
+    background: url('iron.jpg');
+    background-size: cover;
+}
+
+
+
+#profile_pic{
+    border-radius: 100%;
+    border: 2px solid #34495e;
+    box-shadow: 0 2px 2px black;
+    box-sizing: border-box;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-top: 50px;
+
+    position: absolute;
+    top: 8px;
+    left: 16px; 
+   
+}
+#title {
+    position: absolute;
+    font-family: verdana;
+    margin-left: 360px;
+    margin-top: 10px;
+    color:  #3b4d6b !important;
+    font-family: 'Merriweather', serif;
+}
+#profession{
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 70px;
+    font-weight: bold;
+    font-family: 'Bitter', serif;
+
+}
+#content{
+    padding-top: 120px;
+    padding-left: 10px;
+    font-family: 'Exo 2', sans-serif;
+}
+footer {
+    background-color: #3b4d6b !important;
+}
+.navbar li a:hover {
+    background-color: #0080ff !important;
+    color: cyan !important;
+}
+
+.navbar {
+    background-color: #3b4d6b !important;
+    height: 60px;
+
+}
+p {
+    color:black;
+}

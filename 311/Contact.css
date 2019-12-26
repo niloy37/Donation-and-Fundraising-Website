@@ -1,0 +1,59 @@
+body {
+    font-family: "Nunito", sans-serif !important;
+}
+
+.navbar li a:hover {
+    background-color: #0080ff !important;
+    color: cyan !important;
+}
+#des-id{
+    padding-left: 0;
+    padding-top: 0;
+    height:116px;
+    font-size:11pt;
+  }
+  
+
+
+.container .row .col .card .card-header {
+    background-color: #3b4d6b !important
+}
+
+.col-12 .card .card-header {
+    background-color: #3b4d6b !important;
+}
+
+
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact textarea {
+    width: 100%;
+    border: 1px solid #CCC;
+    background: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    
+}
+
+
+
+
+
+#contact button[type="submit"] {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #3b4d6b;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#contact button[type="submit"]:hover {
+    background: #0CF;
+    -webkit-transition: background 0.3s ease-in-out;
+    -moz-transition: background 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out;
+}

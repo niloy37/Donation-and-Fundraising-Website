@@ -1,0 +1,14 @@
+.navbar li a:hover {
+    background-color: #0080ff !important;
+    color: cyan !important;
+}
+
+.navbar {
+    background-color: #3b4d6b !important;
+    height: 60px;
+
+}
+
+.navbar .btn {
+background-color: #3b4d6b !important;
+}

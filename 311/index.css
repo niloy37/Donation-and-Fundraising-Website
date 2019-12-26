@@ -1,0 +1,87 @@
+.navbar li a:hover {
+    background-color: #0080ff !important;
+    color: cyan !important;
+}
+
+.navbar {
+    background-color: #3b4d6b !important;
+    height: 60px;
+
+}
+
+.card > .card-header {
+    background-color: #3b4d6b !important;
+
+}
+
+.card > .card-title {
+    background-color: #3b4d6b !important;
+}
+
+body {
+    font-family: "Nunito", sans-serif !important;
+}
+
+.btn {
+    background-color: #3b4d6b;
+
+}
+
+footer {
+    background-color: #3b4d6b !important;
+}
+
+
+/
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+  .radio {
+    display: none;
+  }
+  
+  .label {
+    display: inline-block;
+    margin: 0 5px 20px;
+    padding: 3px 8px;
+    color: #aaa;
+    text-shadow: 0 1px black;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .radio:checked + .label {
+    color: white;
+    background: rgba(0, 0, 0, 0.25);
+  }
+ /* setting row of progress bar */
+
+
+
+
+  .myrow {
+ display :flex;
+ width : 100%;
+  }
+  
+  .col-1my {
+      
+      width : 25% !important;
+  
+  }
+.col-2my {
+   
+    width : 70% !important;
+    
+  }
+  * {
+      box-sizing: border-box;
+  }
+ 
+  
