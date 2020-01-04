@@ -29,6 +29,8 @@ Make sure Local host is running , go to browser and type
 localhost/311/index.php
 hit enter
 
+//Hhh
+
 -> admin functionalities username - admin 
                          pass - 12
 
